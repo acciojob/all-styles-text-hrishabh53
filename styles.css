@@ -4,13 +4,13 @@
 Width: 200px;
 Background-color: purple;
 Left-side-border-color: green;
-Left-side-border-thickness: 5 pixels;
+Left-side-border-thickness: 5px;
 Padding: 10px;
 	
 }
 .heading {
-Font-size: 20 pixels;
- color: white;
+Font-size: 20px;
+color: white;
 text-decoration: underline;
 	
 }
